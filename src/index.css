@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 *{
-  font-family: 'Poppins';
+  font-family: 'satoshi';
 }
-
+ input ::placeholder{
+   color: rgb(82 82 91 / var(--tw-border-opacity));;
+ }
