@@ -3,7 +3,8 @@
 MuseSphere brings the world to your screen with seamless one-on-one video calls. Dive into meaningful conversations, collaborate in real-time, or simply catch up with loved ones - all with crystal-clear quality and intuitive ease.
 <hr/>
 
-![Screenshot 2024-06-25 172658](https://github.com/Munis2003/ChatMate/assets/115029476/c70ab17e-76d1-4cbc-aeac-98420074ae4b)
+![Screenshot 2024-06-25 171626](https://github.com/Munis2003/MuseSphere/assets/115029476/814e553b-b1f5-432e-97e1-89df40d6eaec)
+
 
 <hr/>
 
@@ -56,5 +57,5 @@ Note: Ensure that you have carefully added the ZEGOCLOUD API key configuration t
 <hr/>
 
 # Demo 
-https://github.com/Munis2003/ChatMate/assets/115029476/f8279bae-ef40-4080-927c-5381ddf28218
+https://github.com/Munis2003/MuseSphere/assets/115029476/52fa9109-9319-43f7-b622-a54068efa0a7
 
