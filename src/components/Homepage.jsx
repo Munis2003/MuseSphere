@@ -26,7 +26,7 @@ const Homepage = () => {
   return (
     <div className='max-w-screen-xl  px-14  pt-5  mx-auto'>
       <nav className='flex items-center justify-between'>
-        <img src="/public/vite.svg" alt="" />
+        <img className='w-[55px] ml-[0.85%]' src="/public/MD1.png" alt="" />
         <div className='flex items-center gap-5'>
         <div className='flex text-zinc-500 text-[18px] gap-2'>
         <p>{time}</p>
@@ -45,7 +45,7 @@ const Homepage = () => {
         
         </nav>
 
-        <div className='flex items-center'>
+        <div className='flex  items-center '>
             <div className='left-cont w-[50%] p-2'>
               <h1 className='mt-12 text-[44px] font-[550] text-[#1c1f2e] leading-[49px]'>Gather seamlessly with inclusive video calls and meetings!</h1>
               <p className='mt-4 text-zinc-500 w-[75%] text-[19px] font-[450]'>Join, collaborate, and rejoice from any corner of the globe with MuseSphere!</p>
@@ -74,26 +74,3 @@ const Homepage = () => {
 }
 
 export default Homepage
-
-// <div className='bg-[#242736] w-[58%] h-[95.5%] rounded-xl absolute top-[50%] left-[30%] translate-x-[-50%] translate-y-[-50%]'>
-// <div className='absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] '>
-// <input value={input} onChange={(e)=>setInput(e.target.value)} className='border-2 border-black rounded-md py-1 px-2' type="text" placeholder='Enter your name...' />
-// <button onClick={submit} className='ml-5 text-white text-sm py-1 px-4 bg-blue-400 rounded-md'>Join</button>
-// </div> 
-// </div>
-
-
-
-
-
-//  <CCarousel controls transition="crossfade">
-//  <CCarouselItem>
-//    <CImage className="d-block w-100" src="/public/animation.jpg" alt="slide 1" />
-//  </CCarouselItem>
-//  <CCarouselItem>
-//    <CImage className="d-block w-100" src="/public/animation.jpg" alt="slide 2" />
-//  </CCarouselItem>
-//  <CCarouselItem>
-//    <CImage className="d-block w-100" src="/public/animation.jpg" alt="slide 3" />
-//  </CCarouselItem>
-// </CCarousel>
